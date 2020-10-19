@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Screen Login & Access P1"
