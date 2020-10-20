@@ -3,4 +3,9 @@
     <string name="input_login">Email ou CPF</string>
     <string name="input_pwd">Senha</string>
     <string name="button">Acessar o app</string>
+    <string name="view_name">Nome</string>
+    <string name="view_cpf">CPF</string>
+    <string name="view_email">E-Mail</string>
+    <string name="button_back">Voltar</string>
+    <string name="button_data">Exibir detalhes</string>
 </resources>
