@@ -2,6 +2,7 @@
   <dictionary name="DEV">
     <words>
       <w>acess</w>
+      <w>screenloginaccess</w>
     </words>
   </dictionary>
 </component>
